@@ -1,4 +1,13 @@
 {
+    "name": "scottkeck-warren/qualitycodeexample",
+    "description": "A Example for a presentation",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Scott Keck-Warren",
+            "email": "warren5236@gmail.com"
+        }
+    ],
     "require": {
         "phpunit/phpunit": "^9.0"
     }
